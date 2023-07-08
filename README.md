@@ -5,3 +5,7 @@ https://github.com/teotimepacreau/Certificats-Formation-Les-fondamentaux-de-Java
 # Certificat de réussite "Les fondamentaux de JavaScript 2"
 
 https://github.com/teotimepacreau/Certificats-Formation-Les-fondamentaux-de-JavaScript/blob/main/CodingFundamentals2.pdf
+
+# Certificat de réussite "Array Methods"
+
+https://github.com/teotimepacreau/Certificats-Formation-Les-fondamentaux-de-JavaScript/blob/main/Certificate%20JS%20Array%20Methods.pdf
